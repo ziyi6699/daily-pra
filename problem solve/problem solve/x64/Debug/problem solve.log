@@ -1,2 +1,15 @@
-﻿  1.c
+﻿  30-40.c
+D:\c语言\problem solve\problem solve\30-40.c(105,14): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+      D:\c语言\problem solve\problem solve\30-40.c(105,14):
+      此参数由转换说明符使用
+  
+D:\c语言\problem solve\problem solve\30-40.c(105,14): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\c语言\problem solve\problem solve\30-40.c(105,14):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\c语言\problem solve\problem solve\30-40.c(105,14):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      D:\c语言\problem solve\problem solve\30-40.c(105,14):
+      此参数用作缓冲区大小
+  
+D:\c语言\problem solve\problem solve\30-40.c(110,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   problem solve.vcxproj -> D:\c语言\problem solve\x64\Debug\problem solve.exe
